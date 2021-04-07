@@ -1,3 +1,6 @@
+Project4 - Advanced Lane Finding에서 advanced_lane_finding.py 안에 코드 주석 달아놨습니다.
+
+
 # self-driving-car
 
 In this repository I will share the **source code** of all the projects of **[Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)**.
